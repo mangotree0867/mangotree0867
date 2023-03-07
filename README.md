@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a developer just beginning to learn how to code.
-I have a looooooong waayyy to goooooo.
-
-I will try and make consistant commits using TIL(Today I Learnt~) and use this as my personal space to revise on what I learned.
+Hi I'm a student at Kwangwoon University, Korea
